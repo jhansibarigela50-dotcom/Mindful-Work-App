@@ -57,5 +57,5 @@ Strategy: Miro (Empathy Mapping)
 Documentation: Github and Repository
 
 **Prototype Screenshots and Demo**
-https://drive.google.com/drive/home
+[https://drive.google.com/drive/home](https://drive.google.com/file/d/1hV4fgTnMQkgZEYqTj-o3Feio55KZ8CsL/view?usp=drive_link)
 
