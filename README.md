@@ -23,6 +23,7 @@ Post-Session Journal: A digital space for users to reflect on their mood and rat
 # 🧠 Design Thinking Process
 
 **Stage 1: Empathize & Define**
+
 Research: Analyzed stress triggers such as heavy workloads, back-to-back meetings, and environmental noise.
 
 Personas: Developed 10 detailed personas (e.g., Riya, 28, IT Professional; Aarav, 35, Marketing Manager) to represent diverse office roles.
