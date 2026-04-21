@@ -1,9 +1,10 @@
 # Mindful Work: Smart Stress Relief Pod Interface
 
 # 📌 Project Overview
-Mindful Work is an innovative mobile application prototype designed to combat workplace burnout. The app acts as the digital command center for a physical Smart Stress Relief Pod, providing employees with an immersive, AI-driven environment to de-stress, meditate, and recharge during the workday.
-
-This project was developed using the Design Thinking framework to ensure the solution is deeply rooted in employee empathy and real-world workplace needs.
+Project Title: Mindful Work — Smart Stress Relief Pod App
+Target Audience: Corporate employees across all age groups and job roles
+Scenario: A workplace wellness initiative designed to reduce employee burnout using an AI-integrated app that manages a physical sensory relief pod.
+Tools Used: Figma (prototyping), Miro (empathy maps + ideation)
 
 # 🚀 Core Features
 
@@ -32,13 +33,15 @@ Problem Statement: How might we design a system that offers instant, personalize
 
 Brainstormed sensory elements including color-coded lighting (Lavender for calm, Amber for warmth) and binaural soundscapes.
 
-Prioritized a "minimalist" UI to ensure the app itself does not become a source of stress for the user.
+Prioritized a "minimalist" display to ensure the app itself does not become a source of stress for the user.
 
 **Stage 3: Prototype**
 
 Visual Style: Soft palettes (blues/lavenders), rounded buttons, and intuitive navigation.
 
 Key Screens: Home/Dashboard, Pod Environment Controls, Meditation Interface, and Scheduler.
+
+Prototype Link: https://www.figma.com/make/xbaajpyDjSS7zWvHFSDaRT/Mindful-Work-App-Design?t=1fljWUJqR5SHj8PL-1
 
 **Stage 4: Test**
 
@@ -53,16 +56,6 @@ Strategy: Miro (Empathy Mapping)
 
 Documentation: Github and Repository
 
-**📄 How to Use the Prototype**
+**Prototype Screenshots and Demo**
+https://drive.google.com/drive/home
 
-Launch the prototype link.
-
-Check your Stress Dashboard on the home screen.
-
-Select "Book a Pod" to find an available time slot.
-
-Once in the "Pod," use MoodSync AI to automatically set the lighting and aroma, or manually adjust them using the sliders.
-
-Complete a Breathe with Me session.
-
-End the session by logging your mood in the Post-Session Journal.
