@@ -26,7 +26,7 @@ Post-Session Journal: A digital space for users to reflect on their mood and rat
 
 Research: Analyzed stress triggers such as heavy workloads, back-to-back meetings, and environmental noise.
 
-Personas: Developed 10 detailed personas (e.g., Riya, 28, IT Professional; Aarav, 35, Marketing Manager) to represent diverse office roles.
+Personas: Developed 10 detailed personas (e.g., Sheri, 28, IT Professional; Ram, 35, Marketing Manager) to represent diverse office roles.
 
 Problem Statement: How might we design a system that offers instant, personalized relaxation for employees, reducing stress without disrupting workflow?
 
