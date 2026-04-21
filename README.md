@@ -51,7 +51,7 @@ User Feedback: Simulated testing with 5-10 users to observe navigation patterns.
 Iterations: Improved the "Pod Control" sliders for better accessibility and added "Quick-Start" AI suggestions on the home screen.
 
 🛠 Tools Used
-Design: [Figma / Canva]
+Design: Figma
 
 Strategy: Miro (Empathy Mapping)
 
