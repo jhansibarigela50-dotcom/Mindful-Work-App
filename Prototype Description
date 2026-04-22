@@ -1,0 +1,7 @@
+PROTOTYPE FLOW: MINDFUL WORK APP
+
+- Home Screen: A clean, calming gradient background showing current stress metrics and a prominent "Start AI Session" button.
+- Pod Hub: Interactive sliders for the physical pod environment. Users see real-time feedback on light, scent, and sound changes.
+- AI Recommendation: A "Smart Card" that pops up saying: "We detected high heart rate—Activating 'Ocean Calm' preset."
+- Breathing Interface: A pulsing geometric shape that expands and contracts, guiding the user's breath without requiring them to read text.
+- Scheduler: A simple grid view showing available pods (Pod A, Pod B, Pod C) with "Quick-Book" buttons.
