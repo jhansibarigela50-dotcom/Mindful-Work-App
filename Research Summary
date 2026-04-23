@@ -1,13 +1,32 @@
-RESEARCH SUMMARY: MINDFUL WORK APP
+RESEARCH SUMMARY: MINDFUL WORK USER STUDY
 
-METHODOLOGY:
-Conducted a 10-question wellness survey across 10 diverse personas to identify stress triggers and relaxation preferences.
+1. RESEARCH OVERVIEW
+The goal of this research was to quantify the workplace stressors and relaxation preferences of a diverse 10-persona cohort. The study utilized a 10-question multiple-choice survey to identify patterns in physical symptoms, emotional triggers, and barriers to existing wellness solutions.
 
-KEY FINDINGS:
-1. The Privacy Gap: 80% of users avoid current wellness programs because they are "too public."
-2. The Time Crunch: 7/10 employees can only spare 5-15 minutes for a break, necessitating "micro-sessions."
-3. Sensory Variety: No single stimulus works for everyone. Technical staff prefer light/sound, while leadership roles prefer guided meditation/aroma.
-4. Physical Impact: 60% of stress manifests as physical pain (headaches, eye strain, jaw clenching).
+2. KEY DATA FINDINGS (Based on Persona Responses)
 
-CONCLUSION:
-The app must prioritize speed of access, complete privacy, and deep sensory customization via AI.
+A. The "Silent Struggle" (Q1, Q4, Q8):
+- 70% of respondents rated their stress as "High" or "Extreme."
+- The primary barrier to using existing wellness programs was "Privacy" (Option B in Q8). Users feel that participating in office-wide wellness (like yoga) is too public and potentially performative.
+- DESIGN INFERENCE: The Mindful Work app must focus on private, individualized sessions rather than social or group activities.
+
+B. The Physical Toll (Q2, Q10):
+- 40% of the cohort (specifically technical roles like Riya, David, and Tom) identified "Headaches and Eye Strain" as their primary physical symptom.
+- 50% of the group stated their main goal is "Physical Relief" or "Isolation" (Q10).
+- DESIGN INFERENCE: The app must include sensory-heavy "Dark Mode" protocols and environmental cooling/dimming controls to address physical discomfort immediately.
+
+C. The "Micro-Break" Constraint (Q5):
+- 70% of participants (including management roles like Chloe and Arthur) stated they could only spare 5–15 minutes for a stress break.
+- 10% felt they could not take breaks at all without a structured system.
+- DESIGN INFERENCE: Features like "Breathe with Me" must be optimized for 2-minute durations to ensure users feel they have permission to pause without hurting productivity.
+
+D. Sensory Preferences (Q6, Q7):
+- There was a significant split in sensory needs: 30% preferred Blue Light (Cooling), 40% preferred Amber Light (Safety), and 30% preferred Total Darkness.
+- Auditory needs were equally diverse, split between Nature Sounds, Binaural Beats, and Silence.
+- DESIGN INFERENCE: This diversity justifies the "MoodSync AI" feature, as a "one-size-fits-all" environment would fail 70% of the users.
+
+3. CONCLUSION & DESIGN REQUIREMENTS
+The research confirms that for a wellness app to be effective in a high-pressure corporate environment, it must meet three specific criteria:
+1. Frictionless Entry: Minimal decision-making (AI-driven).
+2. Social Cover: Private booking and status-syncing to remove "break-guilt."
+3. Tactical Relief: Targeting specific biological symptoms (eye strain, heart rate) rather than just "general relaxation."
