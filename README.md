@@ -71,3 +71,4 @@ Documentation: Github and Repository
 
 [https://drive.google.com/drive/home](https://drive.google.com/file/d/1hV4fgTnMQkgZEYqTj-o3Feio55KZ8CsL/view?usp=drive_link)
 
+Screenshots are found in the App Screenshots file.
