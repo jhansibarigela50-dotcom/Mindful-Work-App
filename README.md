@@ -69,24 +69,6 @@ Documentation: Github and Repository
 
 **Prototype Screenshots and Demo**
 
-[https://drive.google.com/drive/home](https://drive.google.com/file/d/1hV4fgTnMQkgZEYqTj-o3Feio55KZ8CsL/view?usp=drive_link)
+Video: [https://drive.google.com/drive/home](https://drive.google.com/file/d/1hV4fgTnMQkgZEYqTj-o3Feio55KZ8CsL/view?usp=drive_link)
 
-<img width="444" height="856" alt="image" src="https://github.com/user-attachments/assets/1d14ee08-23d2-4d30-93da-95e9c676d2c1" />
-
-<img width="438" height="984" alt="image" src="https://github.com/user-attachments/assets/a8562393-236a-4090-b3ac-8a83f5f6dda9" />
-
-<img width="440" height="998" alt="image" src="https://github.com/user-attachments/assets/f415dd6f-806c-458f-977c-13a7399cc335" />
-
-<img width="430" height="908" alt="image" src="https://github.com/user-attachments/assets/a23502f9-16ea-4be8-ab7b-836483836a0b" />
-
-<img width="428" height="928" alt="image" src="https://github.com/user-attachments/assets/764e083b-ac43-4f07-ba39-bd39cf3e5ce6" />
-
-<img width="428" height="674" alt="image" src="https://github.com/user-attachments/assets/0a21cc82-1591-4b88-ba5e-1db9fe110212" />
-
-<img width="432" height="656" alt="image" src="https://github.com/user-attachments/assets/59601706-619a-4ad9-9f20-8c1703b0816a" />
-
-<img width="434" height="758" alt="image" src="https://github.com/user-attachments/assets/8cb3c53f-1f61-43e3-a04f-87b813a4f0af" />
-
-<img width="450" height="986" alt="image" src="https://github.com/user-attachments/assets/59b53752-bc80-4baa-b384-5d44a201fe8b" />
-
-
+Screenshots: [https://drive.google.com/drive/folders/1RUfz1pKfr6vCKf4aPZikGuLBPpAQBPIW](url)
