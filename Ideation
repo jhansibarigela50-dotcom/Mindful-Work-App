@@ -1,13 +1,19 @@
-IDEATION & FEATURE PRIORITIZATION
+DETAILED IDEATION & STRATEGIC FRAMEWORK: MINDFUL WORK
 
-BRAINSTORMING THEMES:
-- Sensory Automation: Moving from manual control to AI-driven presets.
-- Accessibility: Making the booking process take less than 3 clicks.
-- Bio-Feedback: Integrating wearable data (HRV) to suggest sessions.
+1. FEATURE: MoodSync AI (The Intelligence Layer)
+- WHAT: An automated environment calibration engine that uses biometric data to set the Pod's atmosphere.
+- WHY: To solve "Decision Fatigue." Stressed users (like Victor or Beatrice) often lack the mental energy to choose settings. Automation ensures they receive relief without effort. 
+- HOW: Integrated via a "Biometric Handshake" between the app and the user's wearable device. If the app detects a heart rate 20% above the user's baseline, it triggers a push notification suggesting an "Immediate Reset" session.
 
-PRIORITIZED FEATURES:
-1. MoodSync AI: Customizes the Pod's light/sound/scent based on initial mood survey.
-2. Breathe with Me: Visual pacer for 2-minute physiological resets.
-3. Pod Scheduler: Real-time map of office pods to ensure a guaranteed private space.
-4. Stress Dashboard: Gamified progress tracking to encourage daily wellness.
-5. Post-Session Journal: Qualitative data entry to improve AI recommendations over time.
+2. FEATURE: Sensory Protocols (Chromotherapy & Acoustic Masking)
+- WHAT: Specific combinations of 450nm blue/amber lighting and Pink Noise audio.
+- WHY: To address localized physical symptoms. Leo and Siobhan suffer from "Digital Eye Strain," while Maria suffers from physical fatigue. Specific frequencies of light and sound have proven physiological effects on pulse and muscle tension.
+- HOW: Integrated into the "Pod Control Hub" as a series of preset "One-Tap Recipes." Users can slide between "Focus," "Calm," and "Restore," which simultaneously adjusts the physical Pod's smaart-bulbs and spatial speakers.
+
+3. FEATURE: Breathe With Me (Physiological Reset)
+- WHAT: A 120-second guided breathing tool using the "Physiological Sigh" (double inhale, long exhale) technique.
+- WHY: To provide a "hard reset" for the nervous system. Users like Kevin (Imposter Syndrome) or Jax (Support Lead) experience acute panic spikes that require immediate biological intervention to lower CO2 levels in the blood.
+- HOW: Integrated as a minimalist, full-screen interactive animation. A 3D sphere pacer expands and contracts in tie with the required breath rhythm, utilizing haptic vibrations (phone pulses) to guide the user so they can keep their eyes closed. 
+
+4. FEATURE: Smart Pod Scheduler & Status Sync
+- WHAT: A 
