@@ -1,7 +1,32 @@
-PROTOTYPE FLOW: MINDFUL WORK APP
+PROTOTYPE SPECIFICATIONS: MINDFUL WORK ECOSYSTEM
 
-- Home Screen: A clean, calming gradient background showing current stress metrics and a prominent "Start AI Session" button.
-- Pod Hub: Interactive sliders for the physical pod environment. Users see real-time feedback on light, scent, and sound changes.
-- AI Recommendation: A "Smart Card" that pops up saying: "We detected high heart rate—Activating 'Ocean Calm' preset."
-- Breathing Interface: A pulsing geometric shape that expands and contracts, guiding the user's breath without requiring them to read text.
-- Scheduler: A simple grid view showing available pods (Pod A, Pod B, Pod C) with "Quick-Book" buttons.
+SCREEN 1: THE BIOMETRIC DASHBOARD 
+- Functional Element: A real-time 'Stress Ring' that changes color based on synced wearable data (Green for Calm, Orange for Rising Tension).
+- User Interface: A 'Quick-Start AI' Floating Action Button (FAB).
+- Description: This is the entry point where the user sees their daily 'Calm Score.' For users like Leo or Victor, it provides a data-driven reason to take a break.
+
+SCREEN 2: THE SENSORY HUB 
+- Functional Element: Integrated sliders for the three sensory pillars: Light, Sound, and Scent.
+- User Interface: Haptic-feedback sliders and a horizontal carousel of soundscapes (e.g., 'Rain on Leaves,' 'Pink Noise,' 'Ocean Deep').
+- Description: This screen allows users to fine-tune their environment. If Siobhan has a creative block, she can manually shift the lighting to Green and trigger a 'Citrus Burst' scent to stimulate the brain.
+
+SCREEN 3: MOODSYNC AI OVERLAY 
+- Functional Element: A predictive modal that appears when a stress spike is detected.
+- User Interface: A glassmorphic 'Smart Card' with two options: [Automate Relief] or [Dismiss].
+- Description: This screen removes the cognitive load of decision-making. It tells the user exactly what they need (e.g., "High heart rate detected. Activating 'Anxiety Reset' Protocol").
+
+SCREEN 4: BREATHE WITH ME 
+- Functional Element: A 3D-rendered 'Expansion Sphere' that guides the user through the 'Physiological Sigh' (Double-inhale, long-exhale).
+- User Interface: Full-screen Dark Mode (to alleviate eye strain for David and Riya) with a 120-second countdown timer.
+- Description: As the sphere expands, the physical pod lights dim; as it contracts, the pod lights pulse softly. This creates a fully immersive biological reset.
+
+SCREEN 5: THE POD NAVIGATOR 
+- Functional Element: An interactive 2D floor plan of the office space.
+- User Interface: Real-time availability markers (Green = Available, Red = Occupied).
+- Description: This screen solves 'Search Anxiety.' Users can tap a pod, select a 15-minute slot, and receive a digital QR key. Upon booking, the app automatically syncs with Slack/Teams to set the user's status to 'Away: Deep Work.'
+
+SCREEN 6: REFLECTION & REWARD 
+- Functional Element: A 'Stress Delta' chart showing the heart rate drop from start to finish.
+- User Interface: A 5-point emoji-scale mood tracker and a 'Notes' field for qualitative journaling.
+- Description: This screen provides 'Visual Proof' of progress. For leadership personas like Arthur, seeing the data-backed drop in blood pressure reinforces the value of the Mindful Work initiative.
+
