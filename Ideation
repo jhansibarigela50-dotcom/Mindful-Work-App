@@ -1,24 +1,24 @@
 DETAILED IDEATION & STRATEGIC FRAMEWORK: MINDFUL WORK
 
-1. FEATURE: MoodSync AI (The Intelligence Layer)
+1. FEATURE: MoodSync AI 
 - WHAT: An automated environment calibration engine that uses biometric data to set the Pod's atmosphere.
-- WHY: To solve "Decision Fatigue." Stressed users (like Victor or Beatrice) often lack the mental energy to choose settings. Automation ensures they receive relief without effort. 
-- HOW: Integrated via a "Biometric Handshake" between the app and the user's wearable device. If the app detects a heart rate 20% above the user's baseline, it triggers a push notification suggesting an "Immediate Reset" session.
+- WHY: To solve Decision Fatigue. Stressed users often lack the mental energy to choose settings. Automation ensures they receive relief without effort. 
+- HOW: Integrated between the app and the user's wearable device. If the app detects a heart rate above the user's baseline, it triggers a push notification suggesting an "Immediate Reset" session.
 
-2. FEATURE: Sensory Protocols (Chromotherapy & Acoustic Masking)
-- WHAT: Specific combinations of 450nm blue/amber lighting and Pink Noise audio.
-- WHY: To address localized physical symptoms. Leo and Siobhan suffer from "Digital Eye Strain," while Maria suffers from physical fatigue. Specific frequencies of light and sound have proven physiological effects on pulse and muscle tension.
-- HOW: Integrated into the "Pod Control Hub" as a series of preset "One-Tap Recipes." Users can slide between "Focus," "Calm," and "Restore," which simultaneously adjusts the physical Pod's smaart-bulbs and spatial speakers.
+2. FEATURE: Sensory Protocols 
+- WHAT: Specific combinations of blue/amber lighting and Pink Noise audio.
+- WHY: To address localized physical symptoms. Specific frequencies of light and sound have proven physiological effects on pulse and muscle tension.
+- HOW: Integrated into the Pod Control Hub as a series of preset "One-Tap Recipes." Users can slide between "Focus," "Calm," and "Restore," which simultaneously adjusts the physical Pod's smart-bulbs and spatial speakers.
 
-3. FEATURE: Breathe With Me (Physiological Reset)
+3. FEATURE: Breathe With Me 
 - WHAT: A 120-second guided breathing tool using the "Physiological Sigh" (double inhale, long exhale) technique.
-- WHY: To provide a "hard reset" for the nervous system. Users like Kevin (Imposter Syndrome) or Jax (Support Lead) experience acute panic spikes that require immediate biological intervention to lower CO2 levels in the blood.
-- HOW: Integrated as a minimalist, full-screen interactive animation. A 3D sphere pacer expands and contracts in tie with the required breath rhythm, utilizing haptic vibrations (phone pulses) to guide the user so they can keep their eyes closed. 
+- WHY: To provide a hard reset for the nervous system. Users experience acute panic spikes that require immediate biological intervention to lower CO2 levels in the blood.
+- HOW: Integrated as a minimalist, full-screen interactive animation. A 3D sphere pacer expands and contracts in tie with the required breath rhythm, utilizing vibrations (phone pulses) to guide the user so they can keep their eyes closed. 
 
 4. FEATURE: Smart Pod Scheduler & Status Sync
 - WHAT: A real-time booking map line to office communication tools.
-- WHY: To eliminate "Social Guilt" and "Search Anxiety." Employees ike Diane or Arthur feel they can't leave their desks without being "seen" as unproductive.
-- HOW: Integrated with the office's calendar. Once a pod is booked, the app automatically updates the suer's corporate status to "In a Deep Work Session," providing the social "cover" needed for a private break.
+- WHY: To eliminate "Social Guilt" and "Search Anxiety." Employees that feel they can't leave their desks without being "seen" as unproductive.
+- HOW: Integrated with the office's calendar. Once a pod is booked, the app automatically updates the user's corporate status to "In a Deep Work Session," providing the social "cover" needed for a private break.
 
 5. FEATURE: Scent-Sync 
 - WHAT: A timed release of therapeutic essential oil mists (Lavender or Peppermint).
@@ -27,7 +27,7 @@ DETAILED IDEATION & STRATEGIC FRAMEWORK: MINDFUL WORK
 
 6. FEATURE: Impact Dashboard
 - WHAT: A data visualization tool showing the user's stress levels "Before vs. After" a session.
-- WHY: To reinforce the wellness habit through "Visual Proof". If a user sees their heart rate dropped 15 BPM, they are statistically more likely to use the app again.
+- WHY: To reinforce the wellness habit through visual proof. If a user sees their heart rate dropped, they are statistically more likely to use the app again.
 - HOW: Integrated as the post session summary screen. It pulls data from the session and displays it as a simple, encouraging graph that the user can track over a weekly or monthly period.
 
 
