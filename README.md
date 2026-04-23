@@ -1,9 +1,13 @@
 # Mindful Work: Smart Stress Relief Pod Interface
 
 Name: Jhansi Barigela
+
 Candidate Registration Number: 1000480
+
 CRS: Artificial Intelligence
+
 Course: Design Thinking for Innovation
+
 School: Birla Open Minds International School
 
 # 📌 Project Overview
