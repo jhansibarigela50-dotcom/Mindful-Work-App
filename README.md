@@ -52,7 +52,7 @@ Visual Style: Soft palettes (blues/lavenders), rounded buttons, and intuitive na
 
 Key Screens: Home/Dashboard, Pod Environment Controls, Meditation Interface, and Scheduler.
 
-Prototype Link: https://www.figma.com/make/xbaajpyDjSS7zWvHFSDaRT/Mindful-Work-App-Design?t=1fljWUJqR5SHj8PL-1
+Prototype Link:https://www.figma.com/make/xbaajpyDjSS7zWvHFSDaRT/Mindful-Work-App-Design?fullscreen=1&t=3wgz5kGh7D73zg5U-1)
 
 **Stage 4: Test**
 
